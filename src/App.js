@@ -8,7 +8,7 @@ import Contact from './components/Contact'
 
 export default function App() {
   return (
-    <BrowserRouter basename="/my_website">
+    <BrowserRouter basename="/">
       <Routes>
         <Route path="/my_website" element={<Layout />}>
           <Route index element={<Home />} />
