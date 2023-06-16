@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my_website/static/css/main.5c92d3a8.css",
+    "main.js": "/my_website/static/js/main.b2512cc7.js",
+    "static/js/787.a2cb61a6.chunk.js": "/my_website/static/js/787.a2cb61a6.chunk.js",
+    "static/media/notes app project.JPG": "/my_website/static/media/notes app project.84ca38cd66d1b8b58126.JPG",
+    "static/media/vanlife project.JPG": "/my_website/static/media/vanlife project.006f9f3ff1d1bdba3b61.JPG",
+    "static/media/quizzical project.JPG": "/my_website/static/media/quizzical project.2300eb407985aff89914.JPG",
+    "static/media/helvetica-neu.ttf": "/my_website/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo_sub_jeffery.png": "/my_website/static/media/logo_sub_jeffery.fd33cb87aa0cda190d58.png",
+    "static/media/LaBelleAurore.woff2": "/my_website/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/my_website/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/my_website/index.html",
+    "main.5c92d3a8.css.map": "/my_website/static/css/main.5c92d3a8.css.map",
+    "main.b2512cc7.js.map": "/my_website/static/js/main.b2512cc7.js.map",
+    "787.a2cb61a6.chunk.js.map": "/my_website/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c92d3a8.css",
+    "static/js/main.b2512cc7.js"
+  ]
+}
